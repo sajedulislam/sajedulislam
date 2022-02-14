@@ -7,9 +7,10 @@ My Project List:
 3. Quran : https://sajedulislam.github.io/quran
 4. ITAID : https://sajedulislam.github.io/itaid
 
-✔ https://www.facebook.com/Sajedul.IT/
-✔ https://instagram.com/0.tushar
-✔ https://www.facebook.com/0.tushar
+Catch me on:
+1.  ✔ https://www.facebook.com/Sajedul.IT/
+2.  ✔ https://instagram.com/0.tushar
+3.  ✔ https://www.facebook.com/0.tushar
 
 © SAJEDUL ISLAM
 
